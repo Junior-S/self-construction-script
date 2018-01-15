@@ -1,0 +1,22 @@
+{
+  "name": "self-construction-script",
+  "version": "0.0.1",
+  "description": "S.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SADAVA/self-construction-script.git"
+  },
+  "author": "Alessandro Weiß <pw.sadava@mail.ru> (SADAVA)",
+  "license": "Yet to be added.",
+  "bugs": {
+    "url": "https://github.com/SADAVA/self-construction-script/issues"
+  },
+  "homepage": "https://github.com/SADAVA/self-construction-script#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
