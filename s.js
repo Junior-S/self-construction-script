@@ -5,6 +5,6 @@
 
 // # Actual tree
 
-{
+module.exports = {
 	"meta-version": "alpha"
 }
